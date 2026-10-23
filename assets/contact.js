@@ -8,6 +8,7 @@
 
   form.addEventListener('submit', async function (event) {
     event.preventDefault();
+    if (button.disabled) return;
     if (!form.reportValidity()) return;
 
     var honey = form.querySelector('[name="_honey"]');
@@ -28,10 +29,11 @@
         body: JSON.stringify(body)
       });
       var result = await response.json();
-      if (!response.ok || result.success === false || result.success === 'false') {
+      if (!response.ok || ![true, 'true'].includes(result.success)) {
         throw new Error('Submission was not accepted');
       }
 
+      window.BHOCLeadContext?.submitted(form);
       form.reset();
       form.hidden = true;
       success.hidden = false;
