@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-25",
+  "keywordCount": 1076,
+  "topics": [
+    {
+      "id": "T01",
+      "topic": "BHOC Transplant: Organ Oxygen-Delivery Research",
+      "destination": "https://bhoctransplant.com/",
+      "keywordCount": 16,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T02",
+      "topic": "Organ Perfusion, Oxygen Transport and Metabolism",
+      "destination": "https://bhoctransplant.com/science.html#model",
+      "keywordCount": 10,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T03",
+      "topic": "Oxygen Carriers in Transplantation: Evidence and Limits",
+      "destination": "https://bhoctransplant.com/evidence.html#evidence",
+      "keywordCount": 8,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T04",
+      "topic": "Kidney Perfusion and Oxygen-Carrier Research",
+      "destination": "https://bhoctransplant.com/kidney-perfusion.html",
+      "keywordCount": 22,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T05",
+      "topic": "Liver Perfusion and Oxygen-Carrier Research",
+      "destination": "https://bhoctransplant.com/liver-perfusion.html",
+      "keywordCount": 19,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T06",
+      "topic": "Heart Perfusion and Oxygen-Delivery Research",
+      "destination": "https://bhoctransplant.com/evidence.html#heart-evidence",
+      "keywordCount": 8,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T07",
+      "topic": "Lung Perfusion and Oxygen-Transport Research",
+      "destination": "https://bhoctransplant.com/evidence.html#lung-evidence",
+      "keywordCount": 8,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T08",
+      "topic": "Cold Ischemia and Oxygen Across the Transplant Journey",
+      "destination": "https://bhoctransplant.com/journey.html#continuum",
+      "keywordCount": 10,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T09",
+      "topic": "Controlled Rewarming and Organ Oxygenation",
+      "destination": "https://bhoctransplant.com/journey.html#stage-rewarming",
+      "keywordCount": 8,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T10",
+      "topic": "Cell-Free Oxygen Carriers in Organ Perfusates",
+      "destination": "https://bhoctransplant.com/cell-free-oxygen-carrier-perfusate.html",
+      "keywordCount": 12,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T11",
+      "topic": "Oxygen Carriers Across Machine-Perfusion Methods",
+      "destination": "https://bhoctransplant.com/science.html#perfusion-methods",
+      "keywordCount": 10,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T12",
+      "topic": "Xenotransplantation and Oxygen-Delivery Questions",
+      "destination": "https://bhoctransplant.com/news/xenotransplantation-oxygen-continuity-donor-recovery.html",
+      "keywordCount": 16,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T13",
+      "topic": "Organ-Perfusion Research Collaboration",
+      "destination": "https://bhoctransplant.com/partners.html",
+      "keywordCount": 8,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T14",
+      "topic": "DCD, Donor Ischemia and Oxygen-Delivery Questions",
+      "destination": "https://bhoctransplant.com/journey.html#stage-donor",
+      "keywordCount": 16,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T15",
+      "topic": "Perfusate, Endothelium and Organ Microcirculation",
+      "destination": "https://bhoctransplant.com/cell-free-oxygen-carrier-perfusate.html#measurements",
+      "keywordCount": 12,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T16",
+      "topic": "Organ Bioenergetics, ATP and Oxygen Consumption",
+      "destination": "https://bhoctransplant.com/science.html#model",
+      "keywordCount": 14,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T17",
+      "topic": "Marginal Grafts and Organ-Perfusion Research",
+      "destination": "https://bhoctransplant.com/liver-perfusion.html",
+      "keywordCount": 12,
+      "status": "Integrated topic route"
+    },
+    {
+      "id": "T18",
+      "topic": "Bioengineered Tissues and Oxygen-Transport Questions",
+      "destination": "https://bhoctransplant.com/journey.html#stage-centre",
+      "keywordCount": 12,
+      "status": "Integrated topic route"
+    }
+  ],
+  "newPages": [
+    "/kidney-perfusion.html",
+    "/liver-perfusion.html",
+    "/cell-free-oxygen-carrier-perfusate.html"
+  ],
+  "topicGuide": "/topics.html",
+  "startingCommit": "3537515a7c03c2e9bd36a5893ebad3a54a0b6f9f"
+}
