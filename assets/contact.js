@@ -20,7 +20,7 @@
     try {
       var body = {};
       new FormData(form).forEach(function (value, key) {
-        if (key !== '_honey') body[key] = value;
+        body[key] = value;
       });
 
       var response = await fetch(form.dataset.formEndpoint, {
