@@ -144,7 +144,7 @@
     footer a { color:#d3e9d7; }
     .source-note { font-size:11px; color:#65796f; margin-top:18px; }
     /* A distinct midnight-indigo and mineral-cyan identity around the original drawing. */
-    :root { --paper:#f5f3f9; --paper2:#e9eaf3; --ink:#232847; --muted:#596282; --line:#b8bfd2; --sage:#6785b6; --copper:#ae547f; --oxygen:#75d2dc; --white:#fffdf8; --shadow:0 28px 65px rgba(28,29,70,.18); }
+    :root { --paper:#f5f3f9; --paper2:#e9eaf3; --ink:#232847; --muted:#596282; --line:#b8bfd2; --sage:#6785b6; --copper:#964368; --oxygen:#75d2dc; --white:#fffdf8; --shadow:0 28px 65px rgba(28,29,70,.18); }
     .top { background:linear-gradient(115deg,#1f2440,#32305e); border-bottom:3px solid #75d2dc; }
     .topline { border-bottom-color:rgba(255,255,255,.2); }
     .brand-mark i { color:#e5a2bc; }
